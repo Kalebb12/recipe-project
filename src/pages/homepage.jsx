@@ -8,7 +8,7 @@ const Homepage = () => {
         Get inspired, cook with passion and enjoy <br /> unforgettable moments
         at the table.
       </Banner>
-      <RecipeCard/>
+
     </div>
   );
 };
